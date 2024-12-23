@@ -79,15 +79,6 @@ Each folder contains Markdown files (`.md`) for easy navigation and detailed con
 
 ---
 
-## 📚 Resources
-
-Explore additional resources:
-- Books: [resources/books.md](resources/books.md)
-- Online Courses: [resources/online-courses.md](resources/online-courses.md)
-- Useful Links: [resources/useful-links.md](resources/useful-links.md)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
@@ -102,5 +93,5 @@ Contributions are welcome! To contribute:
 
 ## 🌟 Acknowledgments
 
-This repository is maintained by [Your Name]. Suggestions and feedback are highly appreciated! Feel free to open an issue or connect with me.
+This repository is maintained by Upendra Singh. Suggestions and feedback are highly appreciated! Feel free to open an issue or connect with me.
 ```
